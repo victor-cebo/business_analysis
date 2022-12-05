@@ -15,6 +15,6 @@ Bellabeat is a US wearable tech producer and brand based in San Francisco, Calif
 Analyze popular smart device user habits and trends to expand their market strategy
 
 
+## Preparing Data 
 
-
-
+For the purpose of this analysis I'll be using **FitBit Fitness Tracker Dataset** ( https://www.kaggle.com/datasets/arashnic/fitbit.)
