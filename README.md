@@ -11,8 +11,7 @@ Bellabeat is a US wearable tech producer and brand based in San Francisco, Calif
 
 
 
-
-##Business task: Analyze popular smart device user habits and trends to expand their market strategy
+## Business task: Analyze popular smart device user habits and trends to expand their market strategy
 
 
 
